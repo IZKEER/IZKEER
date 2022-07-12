@@ -1,5 +1,5 @@
 ### Hi, i am Marcelo! 👋
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Frontend
 
 
 <div align="center">
