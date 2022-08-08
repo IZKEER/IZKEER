@@ -2,7 +2,7 @@
 
 
 ## Interests:
-👀 I’m interested in Coding | fishing | Formula 1 | TV series  
+👀 I’m interested in Coding | Fishing | Formula 1 | TV series  
 
 
 ## Learning:
