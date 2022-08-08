@@ -1,5 +1,12 @@
-### Hi, i am Marcelo! 👋
-- 🌱 I’m currently learning Frontend
+# 👋 Hi, I’m Marcelo 
+
+
+## Interests:
+👀 I’m interested in Coding | fishing | Formula 1 | TV series  
+
+
+## Learning:
+🌱 I’m currently learning Front End development => **JavaScript & React** via [Scrimba](https://scrimba.com)
 
 
 <div align="center">
