@@ -2,11 +2,9 @@
 
 
 ## Interests:
-👀 I’m interested in Coding | Fishing | Formula 1 | TV series  
+👀 Fishing | Formula 1 | TV series  
 
-
-## Learning:
-🌱 I’m currently learning Front End development => **JavaScript & React** via [Scrimba](https://scrimba.com)
+🌱 Front-End Developer
 
 
 <div align="center">
