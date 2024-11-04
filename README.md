@@ -6,7 +6,7 @@
 
 🌱 Front-End Developer
 
-##ps. I use mostly gitlab for company related work
+ps - i use mostly gitlab for company related work
 
 
 <div align="center">
