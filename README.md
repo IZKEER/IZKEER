@@ -5,6 +5,7 @@
 👀 Fishing | Formula 1 | TV series  
 
 🌱 Front-End Developer
+
 ##ps. I use mostly gitlab for company related work
 
 
